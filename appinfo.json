@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "hiGarza",
+    "enableMultiJS": false,
+    "longName": "PANTONE",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/Lato-Black.ttf",
+                "name": "L_B_40",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Lato-Regular.ttf",
+                "name": "L_R_20",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "PANTONE",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "234cfa8f-807e-4f7d-b277-a5604f10ca3d",
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
